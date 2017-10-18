@@ -1,0 +1,4 @@
+# om age är mindre än eller lika med 20 ge halvbiljett.
+
+# om age är större än 64 ge halvbiljett
+    annars ge helbiljett.
